@@ -1,0 +1,14 @@
+# NAME: NBA
+# AUTHOR: allg00dman
+# DESCRIPTION: NBA
+
+DOMAIN-SUFFIX,nba.com
+DOMAIN-SUFFIX,nba.net
+DOMAIN-SUFFIX,nba.tv
+DOMAIN-SUFFIX,nbaassets.com
+DOMAIN-SUFFIX,nbaimg.com
+DOMAIN-SUFFIX,nbaapi.com
+DOMAIN-SUFFIX,nba.com.cn
+DOMAIN-SUFFIX,nba.net.cn
+DOMAIN,lpnba.akamaized.net
+DOMAIN-SUFFIX,cdnbasket.net
